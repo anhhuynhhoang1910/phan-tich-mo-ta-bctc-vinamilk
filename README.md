@@ -123,7 +123,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 ### Ảnh 2: 100 Đồng Bán Sữa Được Chia Nhau Như Thế Nào?
 *(Ảnh Dashboard 1 – Hiệu quả kinh doanh & Thác nước chi phí)*
 
-![Hiệu Quả Kinh Doanh & Thác Nước Chi Phí](dashboard 1.jpg)
+![Hiệu Quả Kinh Doanh & Thác Nước Chi Phí](dashboard1.jpg)
 
 **HIỆU QUẢ KINH DOANH: DOANH THU ĐỀU ĐẶN & THÁC NƯỚC BÓC TÁCH CHI PHÍ**
 
@@ -147,7 +147,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 ### Ảnh 3: Tiền Đi Đâu Và Về Đâu? Bài Toán Quản Trị Kho & Dòng Tiền Sạch
 *(Ảnh Dashboard 2 – Vốn lưu động & Chu kỳ tiền mặt)*
 
-![Vốn Lưu Động & Chu Kỳ Tiền Mặt]dashboard 2.jpg)
+![Vốn Lưu Động & Chu Kỳ Tiền Mặt](dashboard2.jpg)
 
 **QUẢN TRỊ VỐN LƯU ĐỘNG: LÃI ĐẾN ĐÂU, TIỀN TƯƠI VỀ ĐẾN ĐÓ**
 
@@ -168,7 +168,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 ### Ảnh 4: Công Thức DuPont Đưa ROE Lập Đỉnh & Sự Thật Về Cổ Tức 2025
 *(Ảnh Dashboard 3 – Mô hình DuPont & Phân bổ vốn)*
 
-![Mô Hình DuPont & Phân Bổ Vốn](dashboard 3.jpg)
+![Mô Hình DuPont & Phân Bổ Vốn](dashboard3.jpg)
 
 **MÔ HÌNH DUPONT & PHÂN BỔ VỐN: NGHỆ THUẬT TỐI ƯU HÓA NỘI LỰC**
 
