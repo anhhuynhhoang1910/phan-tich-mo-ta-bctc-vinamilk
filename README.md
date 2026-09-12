@@ -1,12 +1,12 @@
 # Phân Tích Mô Tả Báo Cáo Tài Chính Vinamilk (2023 - 2025)
 
 ## 1. Giới Thiệu Dự Án
-
-* **Công cụ (Tools):** Power BI Desktop, Microsoft Excel.
-* **Kỹ năng chuyên môn (Skills):**
-  * **Kỹ thuật dữ liệu:** Xử lý & chuyển đổi dữ liệu (Power Query / M), viết hàm phân tích nâng cao (DAX), thiết kế mô hình dữ liệu quan hệ (Star Schema), thiết kế giao diện Dashboard tương tác.
-  * **Nghiệp vụ tài chính (Domain Knowledge):** Phân tích Báo cáo Tài chính, phân rã tỷ suất sinh lời (DuPont Analysis), phân tích chu kỳ tiền mặt (CCC), đánh giá khả năng thanh toán & chất lượng dòng tiền.
-* **Mô tả dự án:** Xây dựng hệ thống Dashboard tương tác phân tích toàn diện sức khỏe tài chính Vinamilk giai đoạn 2023–2025. Tự động hóa hơn 20+ chỉ số tài chính đa kỳ (Time Intelligence, Dynamic Measures), bóc tách động lực tăng trưởng ROE và tối ưu hóa thời gian tra cứu dữ liệu từ hàng giờ xuống vài cú click chuột.
+* **Ngôn ngữ**: Tiếng Việt
+* **Công cụ:** Power BI Desktop, Microsoft Excel.
+* **Kỹ năng chuyên môn:**
+  * **Kỹ thuật dữ liệu:** Xử lý & chuyển đổi dữ liệu (Power Query), viết hàm phân tích (DAX), thiết kế mô hình dữ liệu quan hệ (Star Schema), thiết kế giao diện Dashboard tương tác.
+  * **Nghiệp vụ tài chính (Domain Knowledge):** Phân tích Báo cáo Tài chính, phân rã tỷ suất sinh lời (DuPont), phân tích chu kỳ tiền mặt (CCC), đánh giá khả năng thanh toán & chất lượng dòng tiền.
+* **Mô tả dự án:** Xây dựng hệ thống Dashboard tương tác phân tích toàn diện sức khỏe tài chính Vinamilk giai đoạn 2023–2025. Tự động hóa hơn 20+ chỉ số tài chính đa kỳ và bóc tách động lực tăng trưởng ROE.
 
 ---
 
@@ -123,7 +123,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 ### Ảnh 2: 100 Đồng Bán Sữa Được Chia Nhau Như Thế Nào?
 *(Ảnh Dashboard 1 – Hiệu quả kinh doanh & Thác nước chi phí)*
 
-![Hiệu Quả Kinh Doanh & Thác Nước Chi Phí](images/dashboard_income_waterfall.png)
+![Hiệu Quả Kinh Doanh & Thác Nước Chi Phí](dashboard 1.jpg)
 
 **HIỆU QUẢ KINH DOANH: DOANH THU ĐỀU ĐẶN & THÁC NƯỚC BÓC TÁCH CHI PHÍ**
 
@@ -147,7 +147,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 ### Ảnh 3: Tiền Đi Đâu Và Về Đâu? Bài Toán Quản Trị Kho & Dòng Tiền Sạch
 *(Ảnh Dashboard 2 – Vốn lưu động & Chu kỳ tiền mặt)*
 
-![Vốn Lưu Động & Chu Kỳ Tiền Mặt](images/dashboard_working_capital_ccc.png)
+![Vốn Lưu Động & Chu Kỳ Tiền Mặt]dashboard 2.jpg)
 
 **QUẢN TRỊ VỐN LƯU ĐỘNG: LÃI ĐẾN ĐÂU, TIỀN TƯƠI VỀ ĐẾN ĐÓ**
 
@@ -168,7 +168,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 ### Ảnh 4: Công Thức DuPont Đưa ROE Lập Đỉnh & Sự Thật Về Cổ Tức 2025
 *(Ảnh Dashboard 3 – Mô hình DuPont & Phân bổ vốn)*
 
-![Mô Hình DuPont & Phân Bổ Vốn](images/dashboard_dupont_capital_allocation.png)
+![Mô Hình DuPont & Phân Bổ Vốn](dashboard 3.jpg)
 
 **MÔ HÌNH DUPONT & PHÂN BỔ VỐN: NGHỆ THUẬT TỐI ƯU HÓA NỘI LỰC**
 
@@ -198,7 +198,7 @@ Nhiều người nghĩ ngành sữa đã bão hòa thì Vinamilk (VNM) khó tạ
 
 ---
 
-## 66. Tác Giả & Liên Hệ
+## 6. Tác Giả & Liên Hệ
 
 * **Họ và tên:** Huỳnh Hoàng Anh 
 * **Định hướng chuyên môn:** Data Analyst / Financial Data Analyst / Risk Analyst
